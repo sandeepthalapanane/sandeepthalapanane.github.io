@@ -2,10 +2,11 @@
 layout: default
 ---
 
+Hi, I am Sandeep, an aspiring robotics engineer who has a constant thirst for knowledge. Currently I am actively looking for Summer Internships (2023) in the Robotics field.
 
 # About Me 
 
-Hi, I am Sandeep Thalapanane, an aspiring robotics engineer who has a constant thirst for knowledge. I am currently pursuing a Master's in Robotics at the University of Maryland, College Park, USA. In 2020, I earned my bachelor's degree in Mechanical Engineering from Anna University, India. After my bachelor's, I worked at Flextronics as a Senior Analyst for nearly 1 year and 4 months.
+ Hello, I am Sandeep Thalapanane and I enjoy designing and developing robotic systems. Right now, I am pursuing a Master's in Robotics at the University of Maryland, College Park, USA. In 2020, I earned my bachelor's degree in Mechanical Engineering from Anna University, India. After my bachelor's, I worked at Flextronics as a Senior Analyst in the Procurement Divison of a manufacturing plant for nearly 1 year and 4 months.
 
 Motivation 
 > What we know is a drop, what we don't know is an ocean.
