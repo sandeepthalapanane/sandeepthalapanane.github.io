@@ -10,7 +10,7 @@ I am currently pursuing a Master's in Robotics at the University of Maryland, Co
 In 2020, I earned my bachelor’s degree in Mechanical Engineering from Anna University, India.
 After my bachelor's, I worked at Flextronics as a Senior Analyst for nearly 1 year and 4 months.
 
-###Motivation 
+Motivation 
 > What we know is a drop, what we don't know is an ocean.
 
 ## Header 2
