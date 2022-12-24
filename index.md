@@ -5,7 +5,13 @@ layout: default
 
 # About Me 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Hi, I am Sandeep Thalapanane, an aspiring robotics engineer who has a constant thirst for knowledge.
+I am currently pursuing a Master's in Robotics at the University of Maryland, College Park, USA.
+In 2020, I earned my bachelor’s degree in Mechanical Engineering from Anna University, India.
+After my bachelor's, I worked at Flextronics as a Senior Analyst for nearly 1 year and 4 months.
+
+###Motivation 
+"What we know is a drop, what we don't know is an ocean."
 
 ## Header 2
 
