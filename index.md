@@ -1,38 +1,26 @@
----
+---/
 layout: default
 ---
 
-Hi, I am Sandeep, an aspiring robotics engineer who has a constant thirst for knowledge. Currently I am actively looking for Summer Internships (2023) in the Robotics field.
 
 # About Me 
 
  Hello, I am Sandeep Thalapanane and I enjoy designing and developing robotic systems. Right now, I am pursuing a Master's in Robotics at the University of Maryland, College Park, USA. In 2020, I earned my bachelor's degree in Mechanical Engineering from Anna University, India. After my bachelor's, I worked at Flextronics as a Senior Analyst in the Procurement Divison of a manufacturing plant for nearly 1 year and 4 months.
 
-Motivation 
-> What we know is a drop, what we don't know is an ocean.
+> Motivation - "What we know is a drop, what we don't know is an ocean."
 
-## Header 2
+## Where I've worked
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Flextronics
+  - Senior Analyst	(April 2021 – August 2022)
+    - * Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of $1 million using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
+    - * Augmented understanding of the procurement process & supply chain management.
 
-### Header 3
+           
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Projects I've Done
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+
 
 #### Header 4
 
