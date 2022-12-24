@@ -13,8 +13,8 @@ layout: default
 
 - Flextronics
   - Senior Analyst	(April 2021 – August 2022)
-    - * Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of $1 million using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
-    - * Augmented understanding of the procurement process & supply chain management.
+    - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of $1 million using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
+    - Augmented understanding of the procurement process & supply chain management.
 
            
 
