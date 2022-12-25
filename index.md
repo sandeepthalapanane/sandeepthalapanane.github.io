@@ -18,7 +18,7 @@ layout: default
   
 ## Projects I've Done
 
-- Modeling of a High speed camera robot                                          	
+Modeling of a High speed camera robot                                          	
  - October 2022 to December 2022
   	- Designed a High speed cam model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
   	- Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
@@ -26,7 +26,7 @@ layout: default
 
 Implementing the Wall following Algorithm to drive a robot to a goal              	
  - November 2022
-   - Formulated the structure of the C program using OOP, pointers, and classes.
+   - Formulated the structure of the C++ program using OOP, pointers, and classes.
    - Wrote two types of wall following algorithm using left hand rule and right hand rule to reach a goal in a maze if the goal is adjacent to one of the outer walls of the maze.
    - Programmed to turn around the robot, when it reaches dead ends in the maze and continue to follow the algorithm.
 
