@@ -20,29 +20,29 @@ layout: default
 ### Projects I've Done
 
 - Modeling of a High-speed camera robot                                          	
- October 2022 to December 2022
-  •	Designed a High-speed cam model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
-  •	Built a ROS package and simulated in a custom-made Gazebo environment and visualized camera attached at the end effector using RViz. 
-  •	Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
+ - October 2022 to December 2022
+  	- Designed a High-speed cam model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
+  	- Built a ROS package and simulated in a custom-made Gazebo environment and visualized camera attached at the end effector using RViz. 
+  	- Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
 
 Implementing the Wall following Algorithm to drive a robot to a goal              	
- November 2022
-  •	Formulated the structure of the C++ program using OOP, pointers, and classes.
-  •	Wrote two types of wall following algorithm using left-hand rule and right-hand rule to reach a goal in a maze if the goal is adjacent to one of the outer walls of the maze.
-  •	Programmed to turn around the robot, when it reaches dead ends in the maze and continue to follow the algorithm.
+ - November 2022
+   - Formulated the structure of the C++ program using OOP, pointers, and classes.
+   - Wrote two types of wall following algorithm using left-hand rule and right-hand rule to reach a goal in a maze if the goal is adjacent to one of the outer walls of the maze.
+   - Programmed to turn around the robot, when it reaches dead ends in the maze and continue to follow the algorithm.
 
 Performance & emission analysis on a CI engine using soapnut biodiesel by varying injection timing
- January 2020 to Septemnber 2021
-  •	Extracted soapnut oil from soapnut seeds and reduced viscosity of soapnut oil by using Transesterification. 
-  •	Tested blended soapnut oil in CI Engine by varying injection timing.
-  •	Analyzed the results and inferred that the change in performance characteristics was not quite significant, whereas the variation in the emission characteristics was considerable.
+ - January 2020 to Septemnber 2021
+  - Extracted soapnut oil from soapnut seeds and reduced viscosity of soapnut oil by using Transesterification. 
+  - Tested blended soapnut oil in CI Engine by varying injection timing.
+  -	Analyzed the results and inferred that the change in performance characteristics was not quite significant, whereas the variation in the emission characteristics was considerable.
 •	Concluded that the soap nut biodiesel is more advantageous when compared to the diesel in terms of availability, eco-friendly, price and ease of use.
 
 Design & fabrication of a PCM integrated solar still 
- August 2020 to December 2020
-  •	Designed & fabricated a solar desalination system using water as PCM in copper tubes and glass wool as insulation material.
-  •	The experiment was conducted throughout the day in the sunlight and measured the productivity of solar still on an hourly basis at the night.
-  •	It was evident from the results that, when water was used as PCM by storing in the copper tubes, the yield increased from 10% to 24%.
+ - August 2020 to December 2020
+  -	Designed & fabricated a solar desalination system using water as PCM in copper tubes and glass wool as insulation material.
+  -	The experiment was conducted throughout the day in the sunlight and measured the productivity of solar still on an hourly basis at the night.
+  -	It was evident from the results that, when water was used as PCM by storing in the copper tubes, the yield increased from 10% to 24%.
 
 
 #### Header 4
