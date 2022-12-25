@@ -18,11 +18,11 @@ layout: default
   
 ## Projects I've Done
 
-Modeling of a High speed camera robot                                          	
- - October 2022 to December 2022
-  	- Designed a High speed cam model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
-  	- Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
-  	- Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
+Modeling of a High speed camera mobile manipulator                                        	
+  - October 2022 to December 2022
+  	 - Designed a High speed camera robot arm model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
+  	 - Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
+  	 - Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
 
 Implementing the Wall following Algorithm to drive a robot to a goal              	
  - November 2022
@@ -44,11 +44,11 @@ Design and fabrication of a PCM integrated solar still
    - It was evident from the results that, when water was used as PCM by storing in the copper tubes, the yield increased from 10 percent to 24 percent.
 
 
-#### Header 4
+## Skills
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Technologies: ROS, Gazebo, RViz, Solid works, BAAN (ERP), MoveIt, Microsoft Excel 
+*   Developer tools: Git, Google Collab, VS code, PyCharm 
+*   Programming Languages: C++, Python, MATLAB
 
 ##### Header 5
 
