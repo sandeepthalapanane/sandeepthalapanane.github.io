@@ -34,8 +34,8 @@ Performance and emission analysis on a CI engine using soapnut biodiesel by vary
  - January 2020 to Septemnber 2021
    - Extracted soapnut oil from soapnut seeds and reduced viscosity of soapnut oil by using Transesterification. 
    - Tested blended soapnut oil in CI Engine by varying injection timing.
-   -	Analyzed the results and inferred that the change in performance characteristics was not quite significant, whereas the variation in the emission characteristics was considerable.
-•	Concluded that the soap nut biodiesel is more advantageous when compared to the diesel in terms of availability, eco friendly, price and ease of use.
+   - Analyzed the results and inferred that the change in performance characteristics was not quite significant, whereas the variation in the emission characteristics was considerable.
+   - Concluded that the soap nut biodiesel is more advantageous when compared to the diesel in terms of availability, eco friendly, price and ease of use.
 
 Design and fabrication of a PCM integrated solar still 
  - August 2020 to December 2020
