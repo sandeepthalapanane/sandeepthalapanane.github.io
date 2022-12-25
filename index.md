@@ -13,17 +13,17 @@ layout: default
 
 #### Flextronics
  - Senior Analyst (April 2021 to August 2022)
-  - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
-  - Augmented understanding of the procurement process & supply chain management.
+   - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
+   - Augmented understanding of the procurement process & supply chain management.
   
 ## Projects I've Done
 
 #### Modeling of a High speed camera mobile manipulator                       	
  - October 2022 to December 2022
 
-  - Designed a High speed camera robot arm model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
-  - Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
-  - Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
+   - Designed a High speed camera robot arm model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
+   - Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
+   - Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
 
 #### Implementing the Wall following Algorithm to drive a robot to a goal       	
  - November 2022
@@ -50,9 +50,15 @@ layout: default
 
 ## Skills
 
-*   Technologies: ROS, Gazebo, RViz, Solid works, BAAN (ERP), MoveIt, Microsoft Excel 
-*   Developer tools: Git, Google Collab, VS code, PyCharm 
-*   Programming Languages: C++, Python, MATLAB
+| Technologies    | Developer tools  | Programming Languages |
+|:----------------|:-----------------|:----------------------|
+| ROS             | Git              | C++                   |
+| Gazebo          | Google collab    | Python                |
+| RViz            | VS code          | MATLAB                |
+| Solidworks      | Pycharm          |
+| MoveIt          |
+| BAAN(ERP)       |
+| Microsoft Excel |
 
 ##### Header 5
 
