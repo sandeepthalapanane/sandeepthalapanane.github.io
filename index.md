@@ -1,19 +1,20 @@
----/
+---
 layout: default
----/
+---
+
 
 # About Me 
 
  Hello, I am Sandeep Thalapanane and I enjoy designing and developing robotic systems. Right now, I am pursuing a Master's in Robotics at the University of Maryland, College Park, USA. In 2020, I earned my bachelor's degree in Mechanical Engineering from Anna University, India. After my bachelor's, I worked at Flextronics as a Senior Analyst in the Procurement Divison of a manufacturing plant for nearly 1 year and 4 months.
 
-> Motivation "What we know is a drop, what we don't know is an ocean."
+> Motivation - "What we know is a drop, what we don't know is an ocean."
 
 ## Where I've worked
 
 - Flextronics
   - Senior Analyst (April 2021 to August 2022)
-    - * Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
-    - * Augmented understanding of the procurement process & supply chain management.
+    - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
+    - Augmented understanding of the procurement process & supply chain management.
   
 
 ### Projects I've Done
