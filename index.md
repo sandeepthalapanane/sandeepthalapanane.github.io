@@ -16,8 +16,7 @@ layout: default
     - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
     - Augmented understanding of the procurement process & supply chain management.
   
-
-### Projects I've Done
+## Projects I've Done
 
 - Modeling of a High speed camera robot                                          	
  - October 2022 to December 2022
@@ -27,7 +26,7 @@ layout: default
 
 Implementing the Wall following Algorithm to drive a robot to a goal              	
  - November 2022
-   - Formulated the structure of the C++ program using OOP, pointers, and classes.
+   - Formulated the structure of the C program using OOP, pointers, and classes.
    - Wrote two types of wall following algorithm using left hand rule and right hand rule to reach a goal in a maze if the goal is adjacent to one of the outer walls of the maze.
    - Programmed to turn around the robot, when it reaches dead ends in the maze and continue to follow the algorithm.
 
