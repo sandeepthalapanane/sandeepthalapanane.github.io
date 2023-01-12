@@ -25,6 +25,7 @@ layout: default
    - Designed a High speed camera robot arm model with a mobile platform and formulated the Kinematics and Dynamics of the robot links.
    - Built a ROS package and simulated in a custom made Gazebo environment and visualized camera attached at the end effector using RViz. 
    - Developed a python program to operate robot arms, camera and reach the desired position by moving the robot using a mobile platform and planned trajectories using MoveIt.
+   - https://github.com/sandeepthalapanane/Modeling-of-a-High-speed-camera-mobile-manipulator
 
 #### Implementing the Wall following Algorithm to drive a robot to a goal       	
  - November 2022
@@ -32,6 +33,16 @@ layout: default
    - Formulated the structure of the C++ program using OOP, pointers, and classes.
    - Wrote two types of wall following algorithm using left hand rule and right hand rule to reach a goal in a maze if the goal is adjacent to one of the outer walls of the maze.
    - Programmed to turn around the robot, when it reaches dead ends in the maze and continue to follow the algorithm.
+   - https://github.com/sandeepthalapanane/Implementing-the-Wall-following-Algorithm-to-drive-a-robot-to-a-goal
+
+#### Designing LQR and LQG controller for a crane system
+ - December 2022
+
+   - Calculated the equations of motion for the system using Lagrangian method and the corresponding nonlinear state-space representation.
+   - Linearized the system around the equilibrium point and designed a LQR controller for the linearized system and certified the stability using Lyapunov indirect method.
+   - Designed a LQG controller for the nonlinear system and obtained best Luenberger observer for each one of the output vectors.
+   - https://github.com/sandeepthalapanane/LQR-and-LQG-Controller-for-a-Crane-system
+
 
 #### Performance and emission analysis on a CI engine using soapnut biodiesel by varying injection timing
  - January 2020 to Septemnber 2021
