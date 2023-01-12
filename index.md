@@ -38,9 +38,9 @@ layout: default
 #### Designing LQR and LQG controller for a crane system
  - December 2022
 
-   - Calculated the equations of motion for the system using Lagrangian method and the corresponding nonlinear state-space representation.
-   - Linearized the system around the equilibrium point and designed a LQR controller for the linearized system and certified the stability using Lyapunov indirect method.
-   - Designed a LQG controller for the nonlinear system and obtained best Luenberger observer for each one of the output vectors.
+   - Calculated the equations of motion for the system using the Lagrangian method and the corresponding nonlinear state-space representation.
+   - Linearized the system around the equilibrium point and designed an LQR controller for the linearized system and certified the stability using Lyapunov indirect method.
+   - Designed an LQG controller for the nonlinear system and obtained the best Luenberger observer for each one of the output vectors.
    - [Github repository](https://github.com/sandeepthalapanane/LQR-and-LQG-Controller-for-a-Crane-system)
 
 
