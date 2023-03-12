@@ -19,6 +19,39 @@ layout: default
   
 ## Projects I've Done
 
+#### Camera pose estimation by using own Homography and Hough transform functions	                     	
+ - March 2023
+
+   - Developed an algorithm to compute the rotation and translation between a camera and a coordinate frame placed on a sheet of paper, without relying on OpenCV's built-in Homography and Hough transform.
+   - Implemented computer vision techniques such as image thresholding, edge detection, and contour detection to extract the coordinates of the corner points of the sheet of paper.
+
+   - [Github repository](https://github.com/sandeepthalapanane/Camera-pose-estimation-by-using-own-homography-and-hough-transform-functions)
+
+#### Implementation of the Dijkstra Algorithm for path planning of a Point Robot 	                     	
+ - March 2023
+
+   - Developed an implementation of the Dijkstra algorithm in Python to find the shortest path between two points in a map with obstacles, using a graph representation of the map and utilizing data structures such as priority queues to efficiently store and process the graph data.
+   - Integrated the algorithm with a Pygame animation to visualize the resulting explored nodes and optimal path. Also enabled users to select start and goal points.
+   - Demonstrated a deep understanding of fundamental concepts in computer science and mathematics, including graph theory, algorithm analysis, and data structures.
+
+   - [Github repository](https://github.com/sandeepthalapanane/Implementation-of-the-Dijkstra-Algorithm-for-a-Point-Robot)
+
+#### Implementation of the Breadth First Search algorithm for solving 8 puzzle problem                     	
+ - March 2023
+
+   - Developed an implementation of the BFS (Breadth First Search) algorithm in Python to find the shortest path between an initial state and a goal state in the 8 puzzle problem, which involves sliding numbered tiles in a 3x3 grid
+   - Integrated the algorithm with another python script to visualize the shortest path in the terminal by backtracking from goal state to initial stae.
+   - Demonstrated proficiency in algorithms and data structures, as well as familiarity with Python.  
+
+   - [Github repository](https://github.com/sandeepthalapanane/Solving-8-puzzle-problem-using-breadth-first-search-algorithm)
+
+#### Ball tracking and finding trajectory using OpenCV	                     	
+ - March 2023
+
+   - Developed a computer vision algorithm to track a ball in a video stream, using techniques such as color segmentation.
+   - Used RANSAC (Random Sample Consensus) to robustly fit a curve to the ball's trajectory by implementing least squares, even in the presence of noise, outliers, or occlusions.
+   - [Github repository](https://github.com/sandeepthalapanane/Ball-tracking-and-finding-trajectory-using-OpenCV)
+
 #### Modeling of a High speed camera mobile manipulator                       	
  - October 2022 to December 2022
 
