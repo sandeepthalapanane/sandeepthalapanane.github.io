@@ -19,6 +19,12 @@ layout: default
   
 ## Projects I've Done
 
+### Implementation of  A-star algorithm for path planning of Turtle Bot using ROS2	
+ -April 2023
+   - Developed an implementation of A* algorithm in Python for path planning of TurtleBot in a map with obstacles. Utilized ROS2 framework to simulate the robot's movement in the obstacle space.
+   - Integrated the A* algorithm with the ROS2 simulation to generate optimal paths for the TurtleBot to follow and visualize in Gazebo.
+   - [Github repository](https://github.com/sandeepthalapanane/Implementation-of-A-star-algorithm-for-path-planning-of-Turtlebot-in-an-obstacle-environment)
+
 #### Camera pose estimation by using own Homography and Hough transform functions	                     	
  - March 2023
 
