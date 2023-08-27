@@ -11,6 +11,12 @@ layout: default
 
 ## Where I've worked
 
+#### TRC Robotics
+ - Robotics Software Engineer Intern (May 2023 to August 2023)
+
+   - Developed a user-friendly Grafana plug-in utilizing roslib JavaScript to facilitate robot control through a web page interface. Created and customized Docker containers to successfully integrate required modifications.
+   - Worked on enhancing the Grafana plugin by incorporating features for scheduling, visualization, and robot simulation directly on the web page.
+
 #### Flextronics
  - Senior Analyst (April 2021 to August 2022)
 
@@ -19,8 +25,21 @@ layout: default
   
 ## Projects I've Done
 
+### Underwater image restoration
+ - April to May 2023
+   - Developed an innovative project aimed at improving visibility in underwater imagery by employing an image formation model to counteract the light scattering caused by water  & restore the true colors of the scene.
+   - Adapted image restoration techniques from dehazing applications to underwater conditions, using a deep learning model to accurately estimate the depth of objects , thereby improving the efficiency and reliability of the image formation model over conventional methods.
+   - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
+
+### Virtual car driving using hand gestures 	
+ - April to May 2023
+   - Inspired by NVIDIA's virtual driving initiative, developed a remote-controlled automotive system using computer vision & deep learning. 
+   - Trained a TensorFlow model and translated hand gestures into commands for a robot, simulating vehicle actions like acceleration, braking, reversing, and speed adjustments. 
+   - [Github repository](https://github.com/sandeepthalapanane/Virtual-car-driving-system)
+
+
 ### Implementation of  A-star algorithm for path planning of Turtle Bot using ROS2	
- -April 2023
+ - April 2023
    - Developed an implementation of A* algorithm in Python for path planning of TurtleBot in a map with obstacles. Utilized ROS2 framework to simulate the robot's movement in the obstacle space.
    - Integrated the A* algorithm with the ROS2 simulation to generate optimal paths for the TurtleBot to follow and visualize in Gazebo.
    - [Github repository](https://github.com/sandeepthalapanane/Implementation-of-A-star-algorithm-for-path-planning-of-Turtlebot-in-an-obstacle-environment)
@@ -84,7 +103,7 @@ layout: default
 
 
 #### Performance and emission analysis on a CI engine using soapnut biodiesel by varying injection timing
- - January 2020 to Septemnber 2021
+ - January 2020 to Septemnber 2020
 
    - Extracted soapnut oil from soapnut seeds and reduced viscosity of soapnut oil by using Transesterification. 
    - Tested blended soapnut oil in CI Engine by varying injection timing.
@@ -92,7 +111,7 @@ layout: default
    - Concluded that the soap nut biodiesel is more advantageous when compared to the diesel in terms of availability, eco friendly, price and ease of use.
 
 #### Design and fabrication of a PCM integrated solar still
- - August 2020 to December 2020
+ - August 2019 to December 2019
 
    - Designed & fabricated a solar desalination system using water as PCM in copper tubes and glass wool as insulation material.
    - The experiment was conducted throughout the day in the sunlight and measured the productivity of solar still on an hourly basis at the night.
