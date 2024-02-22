@@ -25,14 +25,14 @@ layout: default
 
 ## Research I've worked on
 
-#### Driving style conditioned for autonomous vehicles (Gamma lab - UMD, Advisor – Dr. Ming C Lin)
- - August 2023 to present
+#### Driving style conditioned for autonomous vehicles
+ - Gamma lab - UMD, Advisor – Dr. Ming C Lin (August 2023 to present)
 
 	- Designed a novel Virtual Reality driving simulator using Unity, SUMO, RoadRunner & will be conducting a study using meta quest VR to collect personalized driving data on different parameters including steering angle, throttle, & timing the brakes, and train a model to learn the driving behavior based on the parameters.
 	- Developing a personality classification LSTM model architecture  & trajectory prediction algorithm design to predict future trajectory based on the driving style of nearby vehicles in mixed autonomy environments.
   
-#### Research Assistant – Multiscale Measurements lab UMD (Advisor – Dr. Hugh Bruck)
- - August 2023 to present
+#### Research Assistant – 
+ - Multiscale Measurements lab - UMD, Advisor – Dr. Hugh Bruck (August 2023 to present)
 
    - Designed a novel Virtual Reality driving simulator using Unity, SUMO, RoadRunner & will be conducting a study using meta quest VR to collect personalized driving data on different parameters including steering angle, throttle, & timing the brakes, and train a model to learn the driving behavior based on the parameters.
     - Developing a personality classification LSTM model architecture  & trajectory prediction algorithm design to predict future trajectory based on the driving style of nearby vehicles in mixed autonomy environments.
@@ -48,7 +48,7 @@ layout: default
 	- Improved the original HF-NeuS model by adding two custom loss functions, resulting in a 25% reduction in training time compared to the conventional model.
     - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
 
-### Implementation of Robot Motion Planning in Learned Latent Spaces (L2RRT)
+### Implementation of Robot Motion Planning in Learned Latent Spaces - L2RRT
  - April to May 2023
 	- Implementing a novel sampling-based motion planning algorithm called Learned Latent Rapidly-Exploring Random Trees (L2RRT) to address the challenges of traditional sampling-based methods in high-dimensional robot motion planning problems.
 	- Leveraging a deep neural network to project the problem into a lower-dimensional latent space, where it can be solved more efficiently and then mapping the solution back to the original space to provide a trajectory for the robot to follow.
