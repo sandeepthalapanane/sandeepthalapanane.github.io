@@ -25,6 +25,14 @@ layout: default
   
 ## Projects I've Done
 
+### 3D Inspection Using NeuS
+ - November to December 2023
+	- Developed and implemented an innovative 3D inspection pipeline using HF-NeuS and DeepCrack for crack segmentation and surface reconstruction.
+	- Leveraged HF-NeuS's ability to capture intricate geometries and handle challenging areas to enable inspection of complex structures.
+	- Utilized DeepCrack's pixel-wise crack segmentation capabilities to accurately identify and analyze cracks in surfaces.
+	- Improved the original HF-NeuS model by adding two custom loss functions, resulting in a 25 percent reduction in training time compared to the conventional model.
+    - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
+
 ### Implementation of Robot Motion Planning in Learned Latent Spaces - L2RRT
  - April to May 2023
 	- Implementing a novel sampling-based motion planning algorithm called Learned Latent Rapidly-Exploring Random Trees (L2RRT) to address the challenges of traditional sampling-based methods in high-dimensional robot motion planning problems.
