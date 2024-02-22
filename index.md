@@ -23,7 +23,7 @@ layout: default
    - Performed multiple daily procurement functions such as handling purchase orders over $6 million worth of electronic parts during covid critical times, efficiently met inventory targets of 1 million USD using BAAN ERP software, and coordinated with vendors and suppliers from all parts of the world to meet the desired targets.
    - Augmented understanding of the procurement process and supply chain management.
 
-## Research I've worked on
+<!---## Research I've worked on
 
 #### Driving style conditioned for autonomous vehicles
  - Gamma lab - UMD, Advisor – Dr. Ming C Lin (August 2023 to present)
@@ -36,7 +36,7 @@ layout: default
 
    - Designed a novel Virtual Reality driving simulator using Unity, SUMO, RoadRunner and will be conducting a study using meta quest VR to collect personalized driving data on different parameters including steering angle, throttle, and timing the brakes, and train a model to learn the driving behavior based on the parameters.
     - Developing a personality classification LSTM model architecture  and trajectory prediction algorithm design to predict future trajectory based on the driving style of nearby vehicles in mixed autonomy environments.
-  
+--> 
 
 ## Projects I've Done
 
