@@ -47,13 +47,14 @@ layout: default
 	- Utilized DeepCrack's pixel-wise crack segmentation capabilities to accurately identify and analyze cracks in surfaces.
 	- Improved the original HF-NeuS model by adding two custom loss functions, resulting in a 25 percent reduction in training time compared to the conventional model.
     - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
---> 
+
 
 ### Implementation of Robot Motion Planning in Learned Latent Spaces - L2RRT
  - April to May 2023
 	- Implementing a novel sampling-based motion planning algorithm called Learned Latent Rapidly-Exploring Random Trees (L2RRT) to address the challenges of traditional sampling-based methods in high-dimensional robot motion planning problems.
 	- Leveraging a deep neural network to project the problem into a lower-dimensional latent space, where it can be solved more efficiently and then mapping the solution back to the original space to provide a trajectory for the robot to follow.
     - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
+--> 
 
 ### Underwater image restoration
  - April to May 2023
