@@ -49,7 +49,6 @@ layout: default
 	- Improved the original HF-NeuS model by adding two custom loss functions, resulting in a 25 percent reduction in training time compared to the conventional model.
     - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
 
-
 ### Implementation of Robot Motion Planning in Learned Latent Spaces - L2RRT
  - April to May 2023
 	- Implementing a novel sampling-based motion planning algorithm called Learned Latent Rapidly-Exploring Random Trees (L2RRT) to address the challenges of traditional sampling-based methods in high-dimensional robot motion planning problems.
@@ -149,8 +148,9 @@ layout: default
 | MoveIt          |
 | BAAN(ERP)       |
 | Microsoft Excel |
+<!---
 | Unity			  |
 | Docker          |
 | Grafana         |
-
+--> 
 
