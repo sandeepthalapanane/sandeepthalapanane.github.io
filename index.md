@@ -25,6 +25,12 @@ layout: default
   
 ## Projects I've Done
 
+### Implementation of Robot Motion Planning in Learned Latent Spaces - L2RRT
+ - April to May 2023
+	- Implementing a novel sampling-based motion planning algorithm called Learned Latent Rapidly-Exploring Random Trees (L2RRT) to address the challenges of traditional sampling-based methods in high-dimensional robot motion planning problems.
+	- Leveraging a deep neural network to project the problem into a lower-dimensional latent space, where it can be solved more efficiently and then mapping the solution back to the original space to provide a trajectory for the robot to follow.
+    - [Github repository](https://github.com/sandeepthalapanane/Underwater-Image-Restoration)
+
 ### Underwater image restoration
  - April to May 2023
    - Developed an innovative project aimed at improving visibility in underwater imagery by employing an image formation model to counteract the light scattering caused by water  & restore the true colors of the scene.
