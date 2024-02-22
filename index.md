@@ -145,7 +145,7 @@ layout: default
 | ROS             | Git              | C++                   |
 | Gazebo          | Visual studio    | Python                |
 | RViz            | VS code          | MATLAB                |
-| Solidworks      | Pycharm          | C#                    |
+| Solidworks      | Pycharm          | 
 | MoveIt          |
 | BAAN(ERP)       |
 | Microsoft Excel |
